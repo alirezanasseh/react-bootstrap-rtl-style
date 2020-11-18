@@ -1,2 +1,2 @@
-# react-bootstrap-rtl-style
-Just a CSS file to make React Bootstrap right to left
+# React Bootstrap RTL CSS
+Include this css file in you React.js or Next.js project to make React Bootstrap RTL.
